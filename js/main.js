@@ -24,7 +24,7 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   const messages = [
     'Esta flor es para ti',
     'Te amo mucho',
-    'mi chcharroncito',
+    'mi chicharroncito',
     'Gracias por todo',
     '¡me encantas!',
     '¡  ❤️🦖❤️  !',
